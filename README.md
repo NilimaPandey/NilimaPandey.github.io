@@ -9,4 +9,5 @@ My name is Nilima Pandey. I am a sophmore majoring in Data Science and Bioinform
  Like the quote above, I aspire to combine data sicence with biological science. 
 
 
-
+## PROJECTS
+https://github.com/NilimaPandey/NilimaPandey.github.io/blob/master/Aeon_Project_Part2.R
