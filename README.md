@@ -1,8 +1,5 @@
-## DATA SCIENCE
-## A blog by Nilima Pandey 
+## ABOUT ME
 
-
-### ABOUT ME
 My name is Nilima Pandey. I am a sophmore majoring in Data Science and Bioinformatics from Winona State University, Minnesota. 
 
 ###In future, Data Science and software will do more medicine than all of the biological science together.
